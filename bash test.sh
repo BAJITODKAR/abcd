@@ -12,4 +12,3 @@ else
     sudo systemctl start $SERVICE
     sleep 2
     systemctl status $SERVICE
-fi
